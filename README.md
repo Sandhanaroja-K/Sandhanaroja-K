@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sandhanaroja-K
+- 👋 Hi, I’m @Sandhanaroja Kandhasamy
 - 👀 I’m interested in **Data Science, Machine Learning, and Big Data Technologies**.
 - 🌱 I’m currently learning **MLOps** and **Advanced Machine Learning Techniques**.
 - 💞️ I’m looking to collaborate on **data-driven projects in fields like customer analytics, sales forecasting, and AI-based applications**.
